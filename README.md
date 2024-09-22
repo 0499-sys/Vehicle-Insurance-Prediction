@@ -32,8 +32,15 @@ Prior to analysis, we purified the dataset by addressing missing values, elimina
 
 ### Key Visualizations
 1. **Scatter Plots**: Display relationships between age and premium amounts.
-2. **Histograms**: Show age distribution and vehicle age groups.
+  ![image](https://github.com/user-attachments/assets/32c4fa47-fbbe-4e07-aecb-3553a699486a)
+   
+2. **Histograms**: Show age distribution.
+   ![image](https://github.com/user-attachments/assets/6aa2e45f-c426-4bbb-bcc1-08f42908bcb0)
+   
 3. **Chi-Square Analysis**: Reveal associations among variables related to the target variable.
+   ![image](https://github.com/user-attachments/assets/fd51605c-9f8a-4669-bc0b-599d68686bd4)
+
+![image](https://github.com/user-attachments/assets/44f68b37-7ee1-4829-810d-79ccb66f85c8)
 
 ## Data Modeling
 We employed various modeling techniques, including:
