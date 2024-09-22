@@ -48,10 +48,7 @@ We employed various modeling techniques, including:
    - **High gain and lift values indicate strong predictive capabilities.**
 
 ### Model Performance Metrics
-- **Decision Tree**:
-  - Training Misclassification Rate: 20.69%
-  - Validation Misclassification Rate: 20.48%
-  - Validation AUC: 0.81
+![image](https://github.com/user-attachments/assets/f9621662-2ada-47f2-9a6d-c3c8490c93a3)
 
 ## Results and Recommendations
 The Decision Tree model outperformed others, offering robust Gain and Lift scores for targeted marketing. We recommend its use for customer classification, risk assessment, and optimizing operational efficiency.
