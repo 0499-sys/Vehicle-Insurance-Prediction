@@ -48,7 +48,7 @@ We employed various modeling techniques, including:
    - **High gain and lift values indicate strong predictive capabilities.**
 
 ### Model Performance Metrics
-![image](https://github.com/user-attachments/assets/f9621662-2ada-47f2-9a6d-c3c8490c93a3)
+![image](https://github.com/user-attachments/assets/b10e4e54-c7d8-46c2-8865-ccb38bb0e909)
 
 ## Results and Recommendations
 The Decision Tree model outperformed others, offering robust Gain and Lift scores for targeted marketing. We recommend its use for customer classification, risk assessment, and optimizing operational efficiency.
